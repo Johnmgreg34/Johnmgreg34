@@ -4,9 +4,9 @@
 
 <img src="https://github.com/johnmgreg34.png" width="150" style="border-radius:50%;border:4px solid #8250df"/>
 
-# Hi there, I'm john
+# Hi there, I'm John Gregory
 
-**john**
+**John Gregory**
 
 *ITSA Student*
 
